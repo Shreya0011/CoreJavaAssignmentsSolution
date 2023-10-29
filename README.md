@@ -1,0 +1,2 @@
+# CoreJavaAssignmentsSolution
+Core Java Solutions
